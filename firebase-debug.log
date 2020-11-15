@@ -1,0 +1,38 @@
+[debug] [2020-11-15T18:03:08.905Z] ----------------------------------------------------------------------
+[debug] [2020-11-15T18:03:08.910Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\Ira\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2020-11-15T18:03:08.910Z] CLI Version:   8.16.2
+[debug] [2020-11-15T18:03:08.910Z] Platform:      win32
+[debug] [2020-11-15T18:03:08.910Z] Node Version:  v12.18.1
+[debug] [2020-11-15T18:03:08.928Z] Time:          Sun Nov 15 2020 19:03:08 GMT+0100 (GMT+01:00)
+[debug] [2020-11-15T18:03:08.928Z] ----------------------------------------------------------------------
+[debug] [2020-11-15T18:03:08.928Z] 
+[debug] [2020-11-15T18:03:08.945Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2020-11-15T18:03:08.947Z] > authorizing via signed-in user
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\Users\Ira\Desktop\coding\classed-react-firebase-client
+
+Before we get started, keep in mind:
+
+  * You are initializing in an existing Firebase project directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[info] i  .firebaserc already has a default project, using fcc-social-media-app. 
+[debug] [2020-11-15T18:03:48.736Z] >>> HTTP REQUEST GET https://firebase.googleapis.com/v1beta1/projects/fcc-social-media-app  
+ 
+[debug] [2020-11-15T18:03:49.209Z] <<< HTTP RESPONSE 200 {"content-type":"application/json; charset=UTF-8","vary":"X-Origin, Referer, Origin,Accept-Encoding","date":"Sun, 15 Nov 2020 18:03:49 GMT","server":"ESF","cache-control":"private","x-xss-protection":"0","x-frame-options":"SAMEORIGIN","x-content-type-options":"nosniff","alt-svc":"h3-Q050=\":443\"; ma=2592000,h3-29=\":443\"; ma=2592000,h3-T051=\":443\"; ma=2592000,h3-Q046=\":443\"; ma=2592000,h3-Q043=\":443\"; ma=2592000,quic=\":443\"; ma=2592000; v=\"46,43\"","accept-ranges":"none","transfer-encoding":"chunked"}
+[info] 
+=== Remoteconfig Setup

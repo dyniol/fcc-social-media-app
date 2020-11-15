@@ -8,6 +8,9 @@
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.1.2",
     "@testing-library/user-event": "^12.2.2",
+    "axios": "^0.18.0",
+    "dayjs": "^1.8.11",
+    "jwt-decode": "^2.2.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
     "react-redux": "^6.0.1",
@@ -40,6 +43,6 @@
       "last 1 firefox version",
       "last 1 safari version"
     ],
-    "proxy": "https://europe-west1-socialape-d081e.cloudfunctions.net/api"
+    "proxy": "https://europe-west1-fcc-social-media-app.cloudfunctions.net/api "
   }
 }
